@@ -1,5 +1,5 @@
 # GnomeClean 1.0
-GnomeClean is a gnome theme based in gnome 44 created for me. This is premier version and the focus is clean interface but with too modern. 
+GnomeClean is a gnome theme based in gnome 44 created by me. This is premier version and the focus is clean interface but with too modern. 
 
 # The popup menu
 ![image](https://github.com/marcosandradetf/gnomeclean/assets/116861853/5b2292aa-7c8e-4086-8d2b-3630e1c3b00b)
