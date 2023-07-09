@@ -7,7 +7,7 @@ GnomeClean is a gnome theme based in gnome 44 created by me. This is premier ver
 # The popup menu calendar
 ![image](https://github.com/marcosandradetf/gnomeclean/assets/116861853/dc7edfc1-fca6-411d-a720-f9cf847dcc68)
 
-# The modal search based in popOS
+# The search modal based in popOS
 ![image](https://github.com/marcosandradetf/gnomeclean/assets/116861853/bc0f3a6d-3c38-4090-87bf-7516c7704104)
 
 # Notifications
